@@ -1,6 +1,5 @@
 import pytest
 
-from backend.test.conftest import make_precisao
 
 INVALIDOS = {
 
